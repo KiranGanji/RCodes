@@ -5,4 +5,4 @@ I write a lot of codes for many of my data analysis and model building. So I tho
 ### Current code lists:
 
 1. UniBiTriCuts.R:
-..* This R file has the code to get counts of different combinations of levels within of factor variables. 
+	* This R file has the code to get counts of different combinations of levels within of factor variables. 
