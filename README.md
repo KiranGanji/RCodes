@@ -6,3 +6,6 @@ I write a lot of codes for many of my data analysis and model building. So I tho
 
 1. UniBiTriCuts.R:
 	* This R file has the code to get counts of different combinations of levels within of factor variables. 
+
+2. ChiSq_Vis.R:
+	* Visualising ChiSq p-values like the correlation matrix using corrplot library. Requires tidyr package as well.
