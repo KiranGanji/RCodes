@@ -9,3 +9,6 @@ I write a lot of codes for many of my data analysis and model building. So I tho
 
 2. ChiSq_Vis.R:
 	* Visualising ChiSq p-values like the correlation matrix using corrplot library. Requires tidyr package as well.
+
+3. Scrapers:
+	* Scrapers of Different websites. Currently for 5 and include: Accuweather, DistrictsofIndia, IMDB, The Economist and XKCD.
