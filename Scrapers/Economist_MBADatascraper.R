@@ -46,7 +46,7 @@ for(i in pagenos){
 collegeurls <- Mergedframe$URL
 AdditionalDetailsFrame <- data.frame()
 
-for(i in collegeurls[81:100]){
+for(i in collegeurls){
   print(i)
   collectdetails <- data.table(URL=i)
   urlmain <- paste0(i)
